@@ -1,4 +1,4 @@
-# Kazakhstan International Migration
-An interactive D3.js visualization for the international migration dynamics in Kazakhstan from 2000 to 2017.\
+# Kazakhstan Unemployment Rates
+An interactive D3.js visualization for the unemployment rate in Kazakhstan from 2001 to 2016.\
 Source: [Kazakhstan Committee on Statistics](http://stat.gov.kz)\
-![KZ Migration 1](kz_migration_screenshot.png)
+![KZ Unemployment](kz_unemployment_screenshot.png)
