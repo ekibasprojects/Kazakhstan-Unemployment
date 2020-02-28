@@ -1,0 +1,107 @@
+#header {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#footer {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#maps {
+	
+}
+
+.year {
+	height: 35px;
+	text-align: center;
+}
+
+.circle {
+	width: 8px;
+	height: 8px;
+	margin-right: 5px;
+	display: inline-block;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.row {
+	height: 250px;
+}
+
+.mapael .map {
+    position: relative;
+}
+
+.mapael .mapTooltip {
+    position: absolute;
+    background-color: #fff;
+    moz-opacity: 0.70;
+    opacity: 0.70;
+    filter: alpha(opacity=70);
+    border-radius: 10px;
+    padding: 10px;
+    z-index: 1000;
+    max-width: 200px;
+    display: none;
+    color: #343434;
+}
+
+.gray {
+	color: #999;
+}
+
+.lightgray {
+	color: #ccc;
+}
+
+#legend {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.colorbar {
+	width: 70px;
+	height: 20px;
+	margin-right: 1px;
+	display: inline-block;
+}
+
+.bar {
+	width: 100%;
+	height: 100%;
+}
+
+.bar1 {
+	background: #99e063;
+}
+
+.bar2 {
+	background: #d4f584;
+}
+
+.bar3 {
+	background: #f7f78b;
+}
+
+.bar4 {
+	background: #f1d064;
+}
+
+.bar5 {
+	background: #ffab51;
+}
+
+.bar6 {
+	background: #ff5f2b;
+}
+
+.bar7 {
+	background: #e60000;
+}
+
+.bar8 {
+	background: #b10014;
+}
